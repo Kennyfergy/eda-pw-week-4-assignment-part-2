@@ -1,0 +1,14 @@
+header {
+    background-color: rgb(24, 24, 62);
+    margin: auto;
+    text-align: center;
+}
+.info {
+    background-color: rgb(55, 55, 105);
+    margin: auto;
+    text-align: center;
+    color:rgb(241, 223, 142)
+}
+h2 {
+    background-color: rgb(74, 147, 107);
+}
