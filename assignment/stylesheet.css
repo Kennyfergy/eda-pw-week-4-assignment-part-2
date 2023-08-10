@@ -1,5 +1,5 @@
 header {
-  background-color: rgb(24, 24, 62);
+  background-color: rgb(24, 24, 62); /*a dark blue for header */
   margin: auto;
   text-align: center;
 }
@@ -7,18 +7,20 @@ header {
   background-color: rgb(55, 55, 105);
   margin: auto;
   text-align: center;
-  color: rgb(241, 223, 142);
+  color: rgb(241, 223, 142); /* set txt color to kind of a cream */
 }
 h2 {
-  background-color: rgb(74, 147, 107);
+  background-color: rgb(74, 147, 107); /* kind of a green tint*/
 }
+/*end h2 */
 img {
   max-height: auto;
   max-width: 450px;
-  border: 2px solid rgb(136, 156, 194);
+  border: 2px solid rgb(136, 156, 194); /*lighter offset blue border*/
   border-radius: 50%;
 }
 h3 {
-  color: rgb(22, 39, 54);
+  /*below img*/
+  color: rgb(22, 39, 54); /*set txt color to dark blue*/
   background-color: rgb(85, 138, 138);
 }
